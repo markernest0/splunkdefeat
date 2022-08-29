@@ -1,0 +1,5 @@
+admin
+changeme
+changeme!
+root
+splunk
