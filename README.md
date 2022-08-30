@@ -2,6 +2,8 @@
 
 splunkdefeat is a [Splunk Enterprise SDK for Python](https://dev.splunk.com/enterprise/docs/devtools/python/sdk-python/) wrapper to help red teamers conduct multiple attack techniques against Splunk. The motivation for this proof-of-concept tool was to illustrate practical attacks against Splunk, the associated risks, and how defenders can implement countermeasures. The author assumes no liability for use of this tool.
 
+A more detailed write-up can be found here: [splunkdefeat — A Splunk SDK wrapper for red teams](https://markernest.medium.com/splunkdefeat-a-splunk-sdk-wrapper-for-red-teams-a47a4eeeae7)
+
 # Installation
 
 Clone the repository:
